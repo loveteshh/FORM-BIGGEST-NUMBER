@@ -18,10 +18,10 @@ Sample Output:
 6054854654
 
 Aproach to solve the problem : - 
-1.First is  that wwe will sort the given array so that we could perform the combination of no. very easily. 
-2.then we could intilaise a fuction that would form two no. from the given array elements in possible two  combinations then it would  compare both the combinations and work as following 
-3.if combination 2 is true then it would return 1 else -1 program work accordingly 
-4.at the ennd of the program the result  will be displayed in form of a string combination. 
+1. First is  that wwe will sort the given array so that we could perform the combination of no. very easily. 
+2. Then we could intilaise a fuction that would form two no. from the given array elements in possible two  combinations then it would  compare both the combinations and work as following 
+3. If combination 2 is true then it would return 1 else -1 program work accordingly 
+4. At the ennd of the program the result  will be displayed in form of a string combination. 
 
 CONCEPT USED : 
-in the given program a basic concept that is been used is the conceept of combination of string.
+In the given program a basic concept that is been used is the conceept of combination of string.
